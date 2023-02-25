@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴛᴏɴy+ꜱᴛᴀʀᴋ+ʙᴏᴛ❕️;ᴄʀᴇᴀᴛᴇᴅ+ʙy+ᴛᴇᴀᴍ+ᴅᴍx+ʙᴏᴛᴢ❕️;ᴀ+ꜱɪᴍᴩʟᴇ+ᴛɢ+ᴀᴜᴛᴏᴍᴀᴛᴇᴅ+ʙᴏᴛ!)</p>
 <p align="center">
-  <img src="Logo/PROFESSOR-BOT.jpeg" alt="ᴅᴍx ʙᴏᴛᴢ ʟᴏɢᴏ">
+
 </p>
 <h1 align="center">
   <b> ᴛᴏɴy ꜱᴛᴀʀᴋ ʙᴏᴛ ᴠ11</b>

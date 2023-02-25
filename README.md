@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴛᴏɴy+ꜱᴛᴀʀᴋ+ʙᴏᴛ❕️;ᴄʀᴇᴀᴛᴇᴅ+ʙy+ᴛᴇᴀᴍ+ᴅᴍx+ʙᴏᴛᴢ❕️;ᴀ+ꜱɪᴍᴩʟᴇ+ᴛɢ+ᴀᴜᴛᴏᴍᴀᴛᴇᴅ+ʙᴏᴛ!)</p>
 <p align="center">
-  <img src="Logo/PROFESSOR-BOT.jpeg" alt="MKN BOTZ LOGO">
+  <img src="Logo/PROFESSOR-BOT.jpeg" alt="ᴅᴍx ʙᴏᴛᴢ ʟᴏɢᴏ">
 </p>
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> ᴛᴏɴy ꜱᴛᴀʀᴋ ʙᴏᴛ ᴠ11</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
@@ -98,10 +98,5 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+* [![ᴅᴍx ʙᴏᴛᴢ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/dmx_bots)
 

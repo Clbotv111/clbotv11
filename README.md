@@ -98,5 +98,5 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![ᴅᴍx ʙᴏᴛᴢ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/dmx_bots)
+* [![ᴅᴍx ʙᴏᴛᴢ](https://img.shields.io/static/v1?label=Dmx&message=BOTZ&color=critical)](https://t.me/dmx_bots)
 

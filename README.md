@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center">
-  <b> ᴛᴏɴy ꜱᴛᴀʀᴋ ʙᴏᴛ ᴠ11</b>
+  <b> ᴄʟ ʙᴏᴛ ᴠ11</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)

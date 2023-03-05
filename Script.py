@@ -11,7 +11,7 @@ class script(object):
 ✯ ʙᴜɪʟᴅ ᴠᴇʀꜱɪᴏɴ : ʟɪꜱᴀ ᴠ11.5"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👉 :<a href=https://t.me/dmx_chating>ᴛᴏɴy ʙᴏᴛ</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👉 :<a href=https://t.me/dmx_chating>ʟɪꜱᴀ ʙᴏᴛ</a>
 
 <b>DEVS:</b>
  ᗪEᐯ <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>"""

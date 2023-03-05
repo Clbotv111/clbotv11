@@ -2,16 +2,16 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n ʜᴇʀᴇ ᴍy ᴜꜱᴇʀ ʜᴇʟᴩ ᴄᴏᴍᴍᴀɴᴅꜱ"""
 
     ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : {}
-✯ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
+✯ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a>
 ✯ ʟɪʙʀᴀʀy : ᴩyʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢ : ᴩyᴛʜᴏɴ
 ✯ ᴠᴇʀꜱɪᴏɴ : 3
 ✯ ᴅᴀᴛᴀ-ʙᴀꜱᴇ : ᴍᴀɴɢᴏ-ᴅʙ/ꜱqʟ
 ✯ ꜱᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ
-✯ ʙᴜɪʟᴅ ᴠᴇʀꜱɪᴏɴ : ʟɪꜱᴀ ᴠ11.5"""
+✯ ʙᴜɪʟᴅ ᴠᴇʀꜱɪᴏɴ : ᴄʟ ʙᴏᴛ ᴠ11.5"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👉 :<a href=https://t.me/dmx_chating>ʟɪꜱᴀ ʙᴏᴛ</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👉 :<a href=https://t.me/+fVySYIBH0MthYmU1>ᴄʟ ʙᴏᴛ</a>
 
 <b>DEVS:</b>
  ᗪEᐯ <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>"""
@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/dmx_chating https://t.me/dmx_chating</code>
+<code>/batch https://t.me/+fVySYIBH0MthYmU1 https://t.me/+fVySYIBH0MthYmU1</code>
 
-ᴄʀᴇᴅɪᴛꜱ ›› <a href=https://t.me/dmx_bots><b>ᴅᴍx ʙᴏᴛᴢ</b></a>"""
+ᴄʀᴇᴅɪᴛꜱ ›› <a href=https://t.me/+fVySYIBH0MthYmU1><b>ᴄʟ ɢʀᴏᴜᴩ</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -76,7 +76,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-ᴄʀᴇᴅɪᴛꜱ :- <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>**"""
+ᴄʀᴇᴅɪᴛꜱ :- <a href=https://t.me/+fVySYIBH0MthYmU1>ᴄʟ ɢʀᴏᴜᴩ</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -149,7 +149,7 @@ these are the extra features of this bot
 <b>• ᴛᴏᴛᴀʟ ɢʀᴏᴜᴩꜱ ᚛› <code>{}</code></b>
 <b>• ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ ᚛› <code>{}</code> 𝙼𝙱</b>
 <b>• ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ ᚛› <code>{}</code> 𝙼𝙱</b>"""
-    LOG_TEXT_G = """#ɴᴇᴡɢʀᴏᴜᴩᴛᴏɴy
+    LOG_TEXT_G = """#ɴᴇᴡɢʀᴏᴜᴩᴄʟ
     
 <b>᚛› ɢʀᴏᴜᴩ ⪼ {a}(<code>{b}</code>)</b>
 <b>᚛› ɢʀᴏᴜᴩ ɪᴅ ⪼ @{c}
@@ -158,7 +158,7 @@ these are the extra features of this bot
 
 ʙy {f} ʙᴏᴛ
 """
-    LOG_TEXT_P = """#ɴᴇᴡᴜꜱᴇʀᴛᴏɴy
+    LOG_TEXT_P = """#ɴᴇᴡᴜꜱᴇʀᴄʟ
     
 <b>᚛› ᴜꜱᴇʀ ɪᴅ - <code>{}</code></b>
 <b>᚛› ɴᴀᴍᴇ - {}</b>
@@ -185,7 +185,7 @@ these are the extra features of this bot
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-ᴍᴀᴅma<a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>"""
+ᴍᴀᴅma<a href=https://t.me/+fVySYIBH0MthYmU1>ᴄʟ ɢʀᴏᴜᴩ</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 

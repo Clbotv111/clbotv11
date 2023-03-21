@@ -523,7 +523,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("+ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ɢʀᴏᴜᴩ +", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/dmx_chating")
+            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/clmovi")
             ],[
             InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
